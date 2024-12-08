@@ -78,7 +78,7 @@ struct DetailView: View {
                             HStack {
                                 Text("Currencies:")
                                     .bold()
-                                    .foregroundColor(Color("primaryText"))
+                                    
                                 Text(country.currencies?.first?.value.name ?? "")
                                 Text(country.currencies?.first?.value.symbol ?? "")
                                     .lineLimit(2)
@@ -95,10 +95,10 @@ struct DetailView: View {
                             HStack {
                                 Text("TimeZone:")
                                     .bold()
-                                    .foregroundColor(Color("primaryText"))
+                                    
                                 Text(country.timezones.first ?? "")
                                     .lineLimit(2)
-                                    .foregroundColor(Color("primaryText"))
+                                   
                             }
                         }
                         
@@ -121,7 +121,7 @@ struct DetailView: View {
                 }
                 
                 .navigationBarBackButtonHidden()
-                .foregroundColor(Color("primaryBackground"))
+                
                 HStack{
                     BackButton()
                         .padding([.top, .leading], 20)

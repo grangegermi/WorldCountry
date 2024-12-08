@@ -30,7 +30,7 @@ struct FavoriteView: View {
             }
         }
         .navigationBarTitle(String(localized: "app_title"))
-        .foregroundColor(Color("primaryBackground"))
+        
         
     }
     private func deleteFavorite(country: Item) {
