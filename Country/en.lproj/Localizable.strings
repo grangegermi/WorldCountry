@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Country
+
+  Created by MAC on 8.12.24.
+  
+*/
+
+"app_title" = "World Countries";
+"search_prompt" = "Search";
+"favorites" = "Favorites";
+"name_label" = "Name:";
+"capital_label" = "Capital:";
+"area_label" = "Area:";
+"population_label" = "Population:";
+"currencies_label" = "Currencies:";
+"languages_label" = "Languages:";
+"timezone_label" = "TimeZone:";
+"delete_favorite" = "Delete from Favorites";
+"add_favorite" = "Add to Favorites";

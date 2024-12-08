@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  Country
+
+  Created by MAC on 8.12.24.
+  
+*/
+
+"app_title" = "Страны мира";
+"search_prompt" = "Поиск";
+"favorites" = "Избранное";
+"name_label" = "Название:";
+"capital_label" = "Столица:";
+"area_label" = "Площадь:";
+"population_label" = "Население:";
+"currencies_label" = "Валюта:";
+"languages_label" = "Языки:";
+"timezone_label" = "Часовой пояс:";
+"delete_favorite" = "Удалить из избранного";
+"add_favorite" = "Добавить в избранное";
